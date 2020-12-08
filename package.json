@@ -1,0 +1,20 @@
+{
+  "name": "ESO-character-generator",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDrysdale/ESO-character-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDrysdale/ESO-character-generator/issues"
+  },
+  "homepage": "https://github.com/JamesDrysdale/ESO-character-generator#readme"
+}
