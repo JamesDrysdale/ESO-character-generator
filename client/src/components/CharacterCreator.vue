@@ -1,14 +1,14 @@
 <template>
-  <div class="character-viewer">
+  <div class="character-creator">
       
-      <h1>Character Viewer</h1>
+      <h1>Character Creator</h1>
 
   </div>
 </template>
 
 <script>
 export default {
-  name: 'CharacterViewer',
+  name: 'CharacterCreator',
 }
 </script>
 
