@@ -1,4 +1,12 @@
+
 # Elder Scrolls Online (ESO) Character Generator
+
+App to help with character creation for the MMOPRG The Elder Scrolls Online (ESO).
+
+## Table of contents
+* [Introduction](#introduction)
+* [Technology](#technology)
+* [Setup](#setup)
 
 ## Introduction
 
@@ -40,3 +48,36 @@ At the time of creation, ESO contains the following classes, which will be rando
 * Sorcerer
 * Templar
 * Warden
+
+## Technology
+
+This app is built using the MEVN stack.
+
+* MongoDB
+* Express
+* Vue 3
+* Node
+
+
+## Setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
