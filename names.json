@@ -1,0 +1,8 @@
+{
+    "Factions": ["Daggerfall Covenant", "Ebonheart Pact", "Aldmeri Dominion"],
+    "Race": ["Breton", "Redguard", "Orsimer (Orc)", "Nord", "Dunmer (Dark Elf)", "Argonian", "Altmer (High Elf)", "Bosmer (Wood Elf)", "Khajiit", "Imperial"],
+    "Gender": ["Female", "Male"]
+}
+
+
+
